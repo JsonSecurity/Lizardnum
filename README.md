@@ -10,7 +10,7 @@ Then you simply run it
 <pre>
   python lizardnum.py
 </pre>
-
+All results are stored in the data.txt file.
 # Test
 
 <img src="images/Lizardnum.png"/>
