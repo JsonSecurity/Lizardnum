@@ -13,5 +13,5 @@ Then you simply run it
 All results are stored in the data.txt file.
 # Test
 
-<img src="images/Lizardnum.png"/>
+<img src="https://github.com/JsonSecurity/Images/blob/main/scripts/Lizardnum.png"/>
 
